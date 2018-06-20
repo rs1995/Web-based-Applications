@@ -1,0 +1,32 @@
+html{
+	height: 100%;
+}
+body{
+	background: url("https://images.unsplash.com/photo-1504803542671-cb92eb06a148?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0c453a62d33c0c3a2b43fcb44152504f&auto=format&fit=crop&w=1500&q=80");
+	background-size: cover;
+	background-position: center;
+	font-family: Lato, sans-serif;
+	color:white;
+}
+
+.content{
+	text-align:center;
+	padding:15%;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),0px 8px 13px rgba(0,0,0,0.1),0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.navbar-inverse .navbar-brand,.navbar-inverse .navbar-nav>li>a{
+	color:white;
+}
+
+h1{
+	font-size: 5em;
+}
+
+h3{
+	font-size: 20px;
+}
+
+hr{
+	width:240px;
+}

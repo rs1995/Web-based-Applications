@@ -1,0 +1,70 @@
+body {
+    font-family: "Lato", Arial, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+#gtco-counter {
+    text-align: center;
+}
+
+#gtco-counter{
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.gtco-section {
+    padding: 7em 0;
+    clear: both;
+}
+
+.gtco-heading h2 {
+    font-size: 50px;
+    margin-bottom: 10px;
+    line-height: 1.5;
+    font-weight: 300;
+    text-align: center;
+}
+
+.primary-color {
+    color: #FBB448 !important;
+}
+
+.cursive-font {
+    font-family: "Kaushan Script", cursive;
+}
+
+h2{
+    margin: 0 0 20px 0;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+.feature-center {
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    float: left;
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+#gtco-counter .counter {
+    font-size: 50px;
+    margin-bottom: 10px;
+    color: #FBB448;
+    font-weight: 100;
+    display: block;
+}
+
+#gtco-counter .counter-label {
+    margin-bottom: 0;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.5);
+    letter-spacing: .1em;
+}
